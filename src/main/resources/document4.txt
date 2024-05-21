@@ -1,0 +1,1 @@
+While Apache Lucene is a library for full-text search and indexing, Elasticsearch is a distributed search and analytics engine built on top of Lucene. Both are powerful tools, but they serve different purposes and have different use cases.

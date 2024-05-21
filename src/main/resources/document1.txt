@@ -1,0 +1,1 @@
+Apache Lucene is a powerful and high-performance information retrieval library. It provides capabilities for full-text search and indexing, making it an ideal choice for building search applications.

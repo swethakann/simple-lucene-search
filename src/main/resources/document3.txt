@@ -1,0 +1,1 @@
+In addition to basic indexing and searching, Apache Lucene offers many advanced features such as term vectors, sorting, filtering, and highlighting. These features allow for more complex and customized search functionality.

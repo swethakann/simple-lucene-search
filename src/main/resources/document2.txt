@@ -1,0 +1,1 @@
+To start using Apache Lucene, you need to first set up your environment and include the Lucene libraries in your project. Then, you can create an index and add documents to it for searching.
